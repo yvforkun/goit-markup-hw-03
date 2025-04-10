@@ -1,5 +1,9 @@
 /* Base styles */
-/* font styles */
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+/* Base font styles */
 body {
     font-family: 'Roboto', sans-serif;
 }  
