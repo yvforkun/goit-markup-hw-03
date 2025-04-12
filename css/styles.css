@@ -1,4 +1,11 @@
 /* Base styles */
+:root {
+    --WHITE: #FFFFFF;
+    --NAVY-BLUE: #2E2F42;
+    --IRIS: #4D5AE5;
+    --SLATE: #434455;
+    --OCEAN: #404BBF;
+}
 *::before,
 *::after {
     box-sizing: border-box;
